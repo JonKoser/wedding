@@ -8,7 +8,7 @@ body {
 
 .button {
     display: block;
-    width: 160px;
+    width: 180px;
     margin-right: auto;
     margin-left: auto;
     margin-top: 10px;
@@ -29,7 +29,17 @@ a:hover {
     color: rgb(255,204,4)
 }
 
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
 #title {
     font-family: serif;
     text-align: center;
+    letter-spacing: 10px;
 }
