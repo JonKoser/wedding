@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(12,32,56);
+    color: rgb(196,203,209);
+    text-align: center;
+    content-align: center;
+}
+
+a {
+    color: rgb(196,203,209);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(255,204,4)
+}
+
+#title {
+    font-family: serif;
+    text-align: center;
+}
