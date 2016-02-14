@@ -2,7 +2,8 @@ body {
     background-color: rgb(12,32,56);
     color: rgb(196,203,209);
     text-align: center;
-    content-align: center;
+    align-content: center;
+    font-family: sans-serif;
 }
 
 a {

@@ -1,4 +1,4 @@
-kewedding.github.io
+jonkoser.github.io/wedding
 ===================
 
 Wedding website! :>
