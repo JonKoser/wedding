@@ -11,6 +11,7 @@ a {
     text-decoration: none;
 }
 
+
 a:hover {
     color: rgb(255,204,4)
 }
@@ -31,4 +32,12 @@ a:hover {
     font-family: serif;
     text-align: center;
     letter-spacing: 10px;
+}
+
+#upload-link {
+    color: rgb(255,36,207)
+}
+
+#upload-link:hover {
+    color: rgb(255,204,4)
 }
