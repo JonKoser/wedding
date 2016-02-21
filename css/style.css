@@ -1,14 +1,29 @@
+@font-face {
+    font-family: titleFont;
+    src: url('fonts/CINZEL-REGULAR.OTF');
+}
+
+@font-face {
+    font-family: navFont;
+    src: url('fonts/CINZEL-REGULAR.OTF');
+}
+
+
 html {
     background-color: rgb(12,32,56);
     color: rgb(196,203,209);
     text-align: center;
     align-content: center;
-    font-family: sans-serif;
+    font-family: 'Molengo', sans-serif;
 }
 
 a {
     color: rgb(196,203,209);
     text-decoration: none;
+}
+
+b {
+    text-decoration: underline;
 }
 
 
@@ -19,6 +34,7 @@ a:hover {
 .nav-button {
     font-size: 16pt;
     padding: 15px;
+    font-family: navFont;
 }
 
 #main-content {
@@ -30,7 +46,7 @@ a:hover {
 
 
 #title {
-    font-family: serif;
+    font-family: titleFont;
     text-align: center;
     letter-spacing: 10px;
 }
