@@ -26,9 +26,22 @@ b {
     text-decoration: underline;
 }
 
+table {
+    margin: 0px auto;
+    text-align: left;
+}
+
+td {
+    padding: 5px;
+}
 
 a:hover {
     color: rgb(255,204,4)
+}
+
+.key {
+    text-decoration:underline;
+    font-size: 14pt;
 }
 
 .nav-button {
